@@ -22,3 +22,34 @@ SE ainda não entendi
 
 ### Dia 1:
 ![dia 1](https://i.imgur.com/AM7Ldgz.png)
+
+### Dia 4: 
+![dia 4](https://i.imgur.com/XTylTAE.png)
+
+### Mudanças no meio do caminho
+
+## **Desanimei...**
+
+**Mas não parei!**
+Continuei estudando, porém só um dia por semana (no final zerei o gobyexample.com em 4 sábados)
+
+Dividi por quantos exemplos eu conseguia estudar por pomodoro (25-35 minutos) em uma lista e fui tentando fazer ela.
+
+Aqui está a lista (ela é um ctrl+c do gobyexample.com dividido em 6 conteúdos por vez, e só comecei a fazer dps de certo tempo)
+
+```
+Regular Expressions, JSON, XML, Time, Epoch, Time Formatting / Parsing
+Completed
+
+Random Numbers, Number Parsing, URL Parsing, SHA256 Hashes, Base64 Encoding, Reading Files
+Completed
+
+Writing Files, Line Filters, File Paths, Directories, Temporary Files and Directories, Embed Directive
+Completed
+
+Testing and Benchmarking, Command-Line Arguments, Command-Line Flags, Command-Line Subcommands, Environment Variables, HTTP Client
+Completed
+
+HTTP Server, Context, Spawning Processes, Exec'ing Processes, Signals, Exit
+Completed
+```

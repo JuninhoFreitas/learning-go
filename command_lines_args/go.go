@@ -25,4 +25,7 @@ func main() {
 	fmt.Println(argsWithProg)
 	fmt.Println(argsWithoutProg)
 	fmt.Println(arg)
+	//Tem que mandar um go build ...path
+	//E aí executar com ./go.exe 1 2 3
+
 }
